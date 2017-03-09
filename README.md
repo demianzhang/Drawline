@@ -12,14 +12,14 @@
 ```bash
 Face++_Matlab ---> ETF+FDoG ---> Drawline
 ```
-  需要matlab调用face++的接口得到的key.txt文件
-  ETF+FDoG的main函数里的参数初始化：针对不同图片要选择合适的最后两个参数进行初始化
-  选择不同的图片进行绘制时，图片源为ETF+FDoG程序的运行结果(二值图)，
-  同时要自己添加一个与原图片大小相同的白色背景图片background.jpg
+需要matlab调用face++的接口得到的key.txt文件  
+ETF+FDoG的main函数里的参数初始化：针对不同图片要选择合适的最后两个参数进行初始化  
+选择不同的图片进行绘制时，图片源为ETF+FDoG程序的运行结果(二值图)  
+同时要自己添加一个与原图片大小相同的白色背景图片background.jpg
 
 
 ###Face++ Research Toolkit - Matlab SDK      
-  Copyright © 2013 Megvii, Inc. All Rights Reserved. 
+Copyright © 2013 Megvii, Inc. All Rights Reserved.   
 
 - **Core Files:**	
       -  facepp.m                : Face++ Detection/Landmark API SDK
