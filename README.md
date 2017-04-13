@@ -1,8 +1,7 @@
 # Portrait Printing Algorithm and Optimization 
 肖像打印算法设计与优化
-
-## Intro
 功能：人物肖像轮廓提取，规划线条路径，动态展示
+## Intro
 | File | Description | Dependencies |
 | --- | --- | --- | 
 | **ETF+FDoG** | Coherent Line Drawing 算法提取照片轮廓，简化线条，连通域互连 | `OpenCV2.1.0` |
