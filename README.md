@@ -1,7 +1,8 @@
-# 3D Food Printing Algorithm and Optimization 
-3D食品打印算法设计与优化
+# Portrait Printing Algorithm and Optimization 
+肖像打印算法设计与优化
 
 ## Intro
+功能：人物肖像轮廓提取，规划线条路径，动态展示
 | File | Description | Dependencies |
 | --- | --- | --- | 
 | **ETF+FDoG** | Coherent Line Drawing 算法提取照片轮廓，简化线条，连通域互连 | `OpenCV2.1.0` |
@@ -18,7 +19,7 @@ ETF+FDoG的main函数里的参数初始化：针对不同图片要选择合适�
 同时要自己添加一个与原图片大小相同的白色背景图片background.jpg
 
 
-###Face++ Research Toolkit - Matlab SDK      
+Face++ Research Toolkit - Matlab SDK      
 Copyright © 2013 Megvii, Inc. All Rights Reserved.   
 
 - **Core Files:**	
