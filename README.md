@@ -20,5 +20,6 @@ ETF+FDoG的main函数里的参数初始化：针对不同图片要选择合适�
 同时要自己添加一个与原图片大小相同的白色背景图片background.jpg
 
 
-Face++ Research Toolkit - Matlab SDK      
-Copyright © 2013 Megvii, Inc. All Rights Reserved.   
+Face++ Research Toolkit - Matlab SDK        
+## Demo
+<img src="demo.gif" width="300" height="300" />
